@@ -1,4 +1,4 @@
-package nu.nethome.home.plugin;
+package org.alienlabs.nethome.plugin;
 
 import nu.nethome.home.impl.HomeManagerStarter;
 import nu.nethome.home.impl.SingleHomeItemFactory;
